@@ -26,12 +26,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MyProjects/RiderForSAN/BlazorWASM/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/MyProjects/RiderForSAN/BlazorWASM/Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyProjects/RiderForSAN/BlazorWASM/Client/Pages/RandomImage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZG9tSW1hZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/MyProjects/RiderForSAN/BlazorWASM/Client/Pages/Weather.razor]

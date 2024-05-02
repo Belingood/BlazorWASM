@@ -6,6 +6,31 @@ h1:focus {
     outline: none;
 }
 
+/* Custom section by 119739 */
+
+h1 {
+    color: #0c4128;
+    background: #ffcd39;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+h3 {
+    color: #1861ac;
+}
+.home-element {
+    width: 400px;
+    height: auto;
+    margin-top: 10px;
+}
+.home-to-another {
+    background: #e9ecef;
+}
+.random-image {
+    width: 500px;
+    height: auto;
+    
+/* END Custom section by 119739 */
+
 a, .btn-link {
     color: #0071c1;
 }

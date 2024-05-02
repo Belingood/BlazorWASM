@@ -33,12 +33,72 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\cat_1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat_1.jpg"
     },
     {
-      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_1.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_10.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_10.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_11.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_11.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_12.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_12.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_13.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_13.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_14.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_14.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_15.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_15.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_2.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_2.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_3.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_3.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_4.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_4.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_5.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_5.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_6.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_6.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_7.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_7.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_8.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_8.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\img\\random_img\\rnd_9.jpg",
+      "PackagePath": "staticwebassets\\img\\random_img\\rnd_9.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\RiderForSAN\\BlazorWASM\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",

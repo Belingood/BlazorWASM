@@ -1029,3 +1029,4 @@ D:\MyProjects\RiderForSAN\BlazorWASM\Client\obj\Debug\net8.0\Client.dll
 D:\MyProjects\RiderForSAN\BlazorWASM\Client\obj\Debug\net8.0\refint\Client.dll
 D:\MyProjects\RiderForSAN\BlazorWASM\Client\obj\Debug\net8.0\Client.pdb
 D:\MyProjects\RiderForSAN\BlazorWASM\Client\obj\Debug\net8.0\ref\Client.dll
+D:\MyProjects\RiderForSAN\BlazorWASM\Client\obj\Debug\net8.0\Client.sourcelink.json
